@@ -1,2 +1,4 @@
 # Portfolio
-CSS/HTML responsive portfolio
+
+Taylor's responsive portfolio:
+https://taylorson.github.io/Portfolio/.
