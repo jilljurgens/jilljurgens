@@ -44,7 +44,7 @@ h1.nameHold, h3.nameHold{
 }
 
 #top {
-  background-image: url("../img/bg1.PNG");
+  background-image: url("../img/skyline1.jpg");
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -181,7 +181,7 @@ i {
 }
 
 #portImgCon {
-  background-image: url(../img/bg8.jpg);
+  background-image: url(../img/profile.jpg);
   background-repeat: no-repeat;
   float: left;
   width: 300px;
